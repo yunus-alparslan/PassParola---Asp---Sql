@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PspPrlModelStoreContainer" CdmEntityContainer="PspPrlEntities">
+    <EntitySetMapping Name="Table_Soru">
+      <EntityTypeMapping TypeName="PspPrlModel.Table_Soru">
+        <MappingFragment StoreEntitySet="Table_Soru">
+          <ScalarProperty Name="Soruİd" ColumnName="Soruİd" />
+          <ScalarProperty Name="Sorular" ColumnName="Sorular" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

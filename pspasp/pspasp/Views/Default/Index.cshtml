@@ -1,0 +1,36 @@
+﻿@using pspasp.Models.Enty
+
+@model List<Table_Soru>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Sorular</h2>
+
+
+<table class="table tab-content">
+
+    <tr >
+        <th>İd</th>
+        <th>Sorular</th>
+    </tr>
+    
+    <tbody class="table tab-content">
+        @foreach (var sr in Model)
+        {
+            <tr>
+                <td>@sr.Soruİd</td>
+                <td>@sr.Sorular</td>
+            </tr>
+        }
+
+    </tbody>
+
+
+
+
+</table>
+
