@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\bin\Debug\Passaparola Oyunu.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola Oyunu.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\Projem\Passaparola Oyunu\Passaparola Oyunu\obj\Debug\Passaparola_Oyunu.PassParola.resources
